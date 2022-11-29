@@ -1,16 +1,14 @@
-### Hi there 👋
+# PHEAK Rattana
 
-<!--
-**RatZ6913/RatZ6913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Formation **Développeur Web**
 
-Here are some ideas to get you started:
+> Les languages étudiés :
+- Html
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Je suis actuellement en train de travailler sur mon projet de formation.
+Je suis actuellement en formation de développeur web !
+Je suis en collaboration avec Mr. Léo !
