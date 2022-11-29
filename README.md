@@ -9,11 +9,6 @@
     <div id="compteur">0</div>
 
     <pre id="poeme">
-        Et tous sont ainsi faits ! Vivre la même vie
-        Toujours pour ces gens-là cela n'est point hideux
-        Ce canard n'a qu'un bec, et n'eut jamais envie
-        Ou de n'en plus avoir ou bien d'en avoir deux.
-        
         Aussi, comme leur vie est douce, bonne et grasse !
         Qu'ils sont patriarcaux, béats, vermillonnés,
         Cinq pour cent ! Quel bonheur de dormir dans sa crasse,
