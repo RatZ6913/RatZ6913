@@ -9,7 +9,7 @@
     <div id="compteur">0</div>
 
     <pre id="poeme">
-        Aussi, comme leur vie est douce, bonne et grasse !
+        N'avoir aucun leur vie est douce, bonne et grasse !
         Qu'ils sont patriarcaux, béats, vermillonnés,
         Cinq pour cent ! Quel bonheur de dormir dans sa crasse,
         De ne pas voir plus loin que le bout de son nez !
