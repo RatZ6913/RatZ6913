@@ -3,10 +3,10 @@
 ## Formation **Développeur Web**
 
 > Les languages étudiés :
-- Html
-- CSS
-- JavaScript
-- PHP
+- ** Html **
+- ** CSS **
+- ** JavaScript **
+- ** PHP **
 
 
 
