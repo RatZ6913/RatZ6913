@@ -10,11 +10,12 @@
 <img src="./dev-work.webp" />
 <!-- <img src="https://tim-tek.com/wp-content/uploads/2020/08/developer-working-Converti-1170x700.png" /> -->
 <br>
+<p>
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/null/css3.png"/>
 <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
 <img src="https://img.icons8.com/fluency/48/null/php.png"/>
-
+</p>
 
 
 
