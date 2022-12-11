@@ -21,5 +21,5 @@
 
 
 
-<p> Currently, I am in training to learn the domain of <strong> web development </strong>.
- This universe interests me enormously. I am <strong> passionate </strong>, <strong> motivated </strong> and  <strong> determined </strong> to deepen my <strong> skills </strong>. </p>
+<p> Currently, I am in training to learn the domain of <strong style="color:#006767"> web development </strong>.
+ This universe interests me enormously. I am <strong style="color:#006767"> passionate </strong>, <strong style="color:#006767"> motivated </strong> and  <strong style="color:#006767"> determined </strong> to deepen my <strong style="color:#006767"> skills </strong>. </p>
