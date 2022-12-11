@@ -21,3 +21,5 @@
 
 
 
+<p> Currently, I am in training to learn the domain of <strong> web development </strong>.
+ This universe interests me enormously. I am <strong> passionate </strong>, <strong> motivated </strong> and  <strong> determined </strong> to deepen my <strong> skills </strong>. </p>
