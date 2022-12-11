@@ -1,7 +1,7 @@
 # <span style="color:#20b2aa">PHEAK </span><span style="color:#ecb939">Rattana</span>
 
 
-##  **<span style="color:#b94a4a">Junior Development Web</span>**
+##  **<span style="color:#b94a4a">Junior Developper Web</span>**
 
 
 
