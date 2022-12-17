@@ -33,4 +33,4 @@
  </div><br>
  
 
-<p align="right> << When I am immersed in the code my brain stops thinking... >> Something to think about 🙏 </p>
+<p align="right"> << When I am immersed in the code my brain stops thinking... >> Something to think about 🙏 </p>
