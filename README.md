@@ -1,7 +1,7 @@
-# <span style="color:#20b2aa;text-align:center">PHEAK </span><span style="color:#ecb939;text-align:center"">Rattana</span>
+# <span style="color:#20b2aa;text-align:center">PHEAK </span><span style="color:#ecb939;text-align:center">Rattana</span>
 
 
-##  **<span style="color:#b94a4a;text-align:center"">Junior Developper Web</span>**
+##  **<span style="color:#b94a4a;text-align:center">Junior Developper Web</span>**
 
 
 
