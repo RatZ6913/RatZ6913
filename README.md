@@ -32,3 +32,5 @@
  <span style="color:lightgray">How can you understand advanced things if you don't understand the basic functioning?</span>
  </div>
  
+
+<< When I am immersed in the code my brain stops thinking... >> Something to think about 🙏
