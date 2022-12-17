@@ -30,7 +30,7 @@
  <h3 style="text-align:center"> My Goals </h3>
  <p>My goal is to learn the native, before launching myself on frameworks or libraries. Because before running, I would like to learn how to walk.</p>
  <span style="color:lightgray">How can you understand advanced things if you don't understand the basic functioning?</span>
- </div>
+ </div><br>
  
 
 << When I am immersed in the code my brain stops thinking... >> Something to think about 🙏
